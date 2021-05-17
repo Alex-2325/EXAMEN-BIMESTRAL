@@ -1,0 +1,111 @@
+body{
+    background-image:url("https://viajesyestilo.com/wp-content/uploads/2018/06/Per%C3%BA-monta%C3%B1a-de-colores-e1529135707518.jpg");
+background-size:100%
+
+}
+.titulo{
+
+    color: rgb(45, 21, 78);
+    text-decoration: none;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 8em;
+    font-family:"Reggae One"
+}
+.navegacion{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    background-color: rgba(243, 236, 236, 0.438);
+}
+.nav1{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-size: 2.5em;
+    font-weight: none;
+    text-decoration: none;
+    font-family: "varela round";
+    border: 2px rgba(0, 0, 0, 0.438) solid;
+    
+
+}
+.subtitulo{
+    color:rgb(60, 13, 61);
+    font-size: 4em;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: rgba(243, 236, 236, 0.438);
+}
+.texto{
+    color:rgb(211, 191, 191);
+    text-align: justify;
+    font-family: "roboto mono";
+    font-size: 1.5em;
+    font-weight: bolder;
+    background-color: rgba(61, 58, 58, 0.514);
+}
+.uno{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.dos{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.tres{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.cuatro{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.cinco{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.seis{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.siete{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.ocho{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.nueve{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.diez{
+    background-color:rgba(97, 90, 136, 0.377)
+}
+.body2{
+    background-image:url("https://images.unsplash.com/photo-1531968455001-5c5272a41129?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVydXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+}
+.about{
+    color: rgba(193, 148, 134, 0.931);
+    text-align: center;
+    font-size: 7em;
+    font-family: "varela round";
+    font-weight: bolder;
+    background-color:rgba(202, 169, 169, 0.192);
+}
+.MB{
+    color: rgba(57, 27, 114, 0.781);
+    text-align: center;
+    font-size: 4em;
+    font-family: "varela round";
+
+}
+.info{
+    color: rgba(255, 255, 255, 0.781);
+    text-align: left;
+    font-size: 1.5em;
+    font-family: "varela round";
+    background-color: rgba(114, 105, 105, 0.452);
+    border: 5px rgba(0, 0, 0, 0.651) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.MB1{
+    color: rgba(34, 10, 78, 0.781);
+    text-align: center;
+    font-size: 4.5em;
+    font-family: "varela round";
+   
+}
